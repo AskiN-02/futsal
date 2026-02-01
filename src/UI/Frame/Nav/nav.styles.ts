@@ -10,7 +10,8 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
-	font-size: 48px;
+	font-size: 32px;
 	font-weight: 600;
 	line-height: 100%;
+	letter-spacing: -0.32px;
 `;

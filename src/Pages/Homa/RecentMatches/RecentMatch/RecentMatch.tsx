@@ -1,18 +1,21 @@
-import { Img, MatchBox, Result, Team } from './recentMatch.styles';
 import UWW from '../../../../assets/Logos/small/UWW.png';
 import KSC from '../../../../assets/Logos/small/KSC.png';
+import Typography from '../../../../UI/Components/Typography/Typography';
+import { Img, MatchBox, Result, Team } from './recentMatch.styles';
 
 function RecentMatch() {
 	return (
 		<MatchBox>
 			<Team>
 				<Img src={UWW} />
-				UWW
+				<Typography variant='nt1' text='UWW' />
 			</Team>
-			<Result>5-9</Result>
+			<Result>
+				<Typography variant='nt1' text='5-9' />
+			</Result>
 			<Team>
 				<Img src={KSC} />
-				CST
+				<Typography variant='nt1' text='CST' />
 			</Team>
 		</MatchBox>
 	);
