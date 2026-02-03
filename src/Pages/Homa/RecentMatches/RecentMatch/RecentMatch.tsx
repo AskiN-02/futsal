@@ -1,7 +1,7 @@
 import UWW from '../../../../assets/Logos/small/UWW.png';
 import KSC from '../../../../assets/Logos/small/KSC.png';
 import Typography from '../../../../UI/Components/Typography/Typography';
-import { Img, MatchBox, Result, Team } from './recentMatch.styles';
+import { Img, MatchBox, Result, Team } from './RecentMatch.styles';
 
 function RecentMatch() {
 	return (

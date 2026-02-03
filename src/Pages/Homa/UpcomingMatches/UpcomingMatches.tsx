@@ -5,11 +5,10 @@ import { Container } from './UpcomingMatches.styles';
 function UpcomingMatches() {
 	return (
 		<Container>
-			<Typography
-				variant='h'
-				text='Najbliższe mecze'
-				style={{ marginBottom: '10px' }}
-			/>
+			<Typography variant='h' text='Najbliższe mecze' />
+			<UpcomingMatch />
+			<UpcomingMatch />
+			<UpcomingMatch />
 			<UpcomingMatch />
 		</Container>
 	);

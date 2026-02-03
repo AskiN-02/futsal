@@ -1,6 +1,6 @@
 import Typography from '../../../UI/Components/Typography/Typography';
 import RecentMatch from './RecentMatch/RecentMatch';
-import { Container, MatchesBox } from './recentMatches.styles';
+import { Container, MatchesBox } from './RecentMatches.styles';
 
 function RecentMatches() {
 	return (

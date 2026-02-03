@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
-import { ContentBox } from './mainLayout.styles';
 import Nav from '../../Nav/Nav';
+import { Container, ContentBox } from './mainLayout.styles';
 
 type Props = {
 	children: ReactNode;
@@ -8,10 +8,10 @@ type Props = {
 
 function MainLayout({ children }: Props) {
 	return (
-		<>
+		<Container>
 			<Nav />
 			<ContentBox>{children}</ContentBox>
-		</>
+		</Container>
 	);
 }
 

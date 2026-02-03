@@ -22,7 +22,7 @@ const variants = {
 		lineHeight: '100%',
 		letterSpacing: '-0.32px',
 	},
-	nt2: { fontSize: '32px', fontWeight: 600 },
+	nt2: { fontSize: '32px', fontWeight: 600, lineHeight: '100%' },
 	nt1b: {
 		fontWeight: 600,
 		fontStyle: 'SemiBold',
@@ -38,6 +38,7 @@ function Typography({ text, variant = 'nt1', style }: Props) {
 			style={{
 				fontSize: variants[variant].fontSize,
 				fontWeight: variants[variant].fontWeight,
+				lineHeight: variants[variant].lineHeight,
 				...style,
 			}}>
 			{text}
