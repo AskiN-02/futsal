@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <g>
+    <path d="M19.959,7.116c1.361,1.249,2.518,2.812,3.402,4.599.089.179.089.39,0,.569-2.326,4.703-6.543,7.847-11.362,7.847-1.475,0-2.893-.294-4.219-.838" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M5.768,18.232c-2.116-1.381-3.892-3.443-5.129-5.948-.089-.179-.089-.39,0-.569C2.964,7.012,7.181,3.868,12,3.868c2.254,0,4.373.686,6.232,1.9" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M15.967,11.109c.065.286.099.585.099.891,0,2.246-1.82,4.066-4.066,4.066-.306,0-.605-.034-.891-.099" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M9.125,14.875c-.735-.735-1.19-1.753-1.19-2.875,0-2.246,1.82-4.066,4.066-4.066,1.122,0,2.14.455,2.875,1.19" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+  <line x1=".5" y1="23.5" x2="23.5" y2=".5" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+</svg>

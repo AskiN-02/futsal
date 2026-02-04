@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <rect x="3.868" y="3.869" width="16.264" height="19.631" rx="1" ry="1" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+  <line x1="23.5" y1="3.868" x2="16.042" y2="3.868" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="7.958" y1="3.868" x2=".5" y2="3.868" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="9.673" y1="7.923" x2="9.673" y2="16.055" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+  <line x1="14.186" y1="7.923" x2="14.186" y2="16.055" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+  <path d="M16.042,3.868V1.5c0-.552-.448-1-1-1h-6.083c-.552,0-1,.448-1,1v2.368" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-miterlimit="10"/>
+</svg>

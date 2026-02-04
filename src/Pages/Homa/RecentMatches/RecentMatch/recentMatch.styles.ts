@@ -7,6 +7,7 @@ export const MatchBox = styled.div`
 	padding: 24px 32px;
 	background-color: #fff;
 	border-radius: 10px;
+	cursor: pointer;
 `;
 
 export const Team = styled.div`
